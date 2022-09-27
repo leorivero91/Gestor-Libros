@@ -1,0 +1,16 @@
+Title: 'Los dias de la Revolución',
+    author: 'Eduardo Sacheri',
+    yearEd: 2022,
+    ISBN: 9789877389258
+Title: 'El poder de las palabras',
+    author: 'Mariano Sigman',
+    yearEd: 2022,
+    ISBN: 9789877950465 
+Title: 'El principito',
+    author: 'Antoine De Saint-Exupéry',
+    yearEd: 2016,
+    ISBN: 9789500299114 
+Title: 'El poder del ahora',
+    author: 'Eckhart Tolle',
+    yearEd: 2015,
+    ISBN: 9789877250992
